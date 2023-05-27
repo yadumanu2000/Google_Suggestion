@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.suggestion {
+  font-size: 16px;
+  color: #64748b;
+}
+
+.arrow-icon {
+  width: 12px;
+  margin-left: 8px;
+}
